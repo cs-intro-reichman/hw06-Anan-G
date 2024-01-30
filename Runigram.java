@@ -248,11 +248,8 @@ public class Runigram {
 			alpha--;
 			display(c);
 			StdDraw.pause(500);
-
+		
 		}
-
-
-
 	}
 	
 	/** Creates a canvas for the given image. */
